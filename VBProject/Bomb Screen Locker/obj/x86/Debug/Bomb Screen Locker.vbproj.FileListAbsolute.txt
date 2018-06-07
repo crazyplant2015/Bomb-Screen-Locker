@@ -1,0 +1,10 @@
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\bin\Debug\Bomb Screen Locker.exe
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\bin\Debug\Bomb Screen Locker.pdb
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\bin\Debug\Bomb Screen Locker.xml
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\obj\x86\Debug\Bomb_Screen_Locker.Form1.resources
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\obj\x86\Debug\Bomb_Screen_Locker.Resources.resources
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\obj\x86\Debug\Bomb Screen Locker.vbproj.GenerateResource.Cache
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\obj\x86\Debug\Bomb Screen Locker.exe
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\obj\x86\Debug\Bomb Screen Locker.xml
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\obj\x86\Debug\Bomb Screen Locker.pdb
+C:\Users\BAO\Desktop\My Projects on Visual Basic 2010\Bomb Screen Locker\Bomb Screen Locker\obj\x86\Debug\Bomb_Screen_Locker.Form2.resources
